@@ -3,7 +3,7 @@
     "name": "rnCourse",
     "slug": "rnCourse",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "backgroundColor": "#1e085a",
